@@ -1,0 +1,15 @@
+{
+  "name": "zappush",
+  "displayName": "Zappush",
+  "version": "0.1.0",
+  "description": "Read your store's analytics and audiences, set up tracking and delivery, and manage your lead pipeline and lead conversions from Cursor.",
+  "author": {
+    "name": "Zappush",
+    "email": "care@zappush.com"
+  },
+  "homepage": "https://zappush.com",
+  "repository": "https://github.com/zappush/cursor-plugin",
+  "license": "MIT",
+  "keywords": ["zappush", "analytics", "conversions", "meta", "capi", "leads", "tracking", "mcp"],
+  "logo": "assets/logo.png"
+}
